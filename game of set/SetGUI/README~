@@ -1,0 +1,16 @@
+Authors: Kaye Wrobleski, James Pan, David Kohn, Daniel Jiang, Spencer Rudolph, Sydney Hodge
+Project 2: The Game of Set 
+
+This project is the game of set. In order to run this program, run the file main.rb as such:
+    ruby main.rb
+After this command is ran, a graphical user interface will be displayed. There wil be 12 cards on the table, a new cards button, a scorekeeper field, and an end game button. 
+
+  12 cards: click these cards in such a way to satisfy the game of set. When a selection that is a valid set has been made, the cards will be replaced with new ones.
+  
+  new cards button: click this to display 12 new cards.
+  
+  scorekeeper field: will tell you how many sets you have made.
+
+  end game button: will close the GUI and end the program. 
+ 
+

@@ -1,0 +1,16 @@
+--- !ruby/object:VR_ENV
+settings_file_version: 1
+width: 959
+height: 744
+panel_pos: 496
+run_command_line: ruby main.rb
+open_files:
+- "/home/sydhodge/CSE-3901/SetGUI/bin/MyClass.rb"
+- "/home/sydhodge/CSE-3901/SetGUI/check.rb"
+- "/home/sydhodge/CSE-3901/SetGUI/main.rb"
+open_folders:
+- "/home/sydhodge/CSE-3901/SetGUI"
+- "/home/sydhodge/CSE-3901/SetGUI/bin"
+- "/home/sydhodge/CSE-3901/SetGUI/bin/glade"
+current_file: "/home/sydhodge/CSE-3901/SetGUI/bin/MyClass.rb"
+rdoc_command_line: rdoc -x README
